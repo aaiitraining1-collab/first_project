@@ -1,0 +1,14 @@
+{
+  "class_names": [
+    "glass",
+    "metal",
+    "paper",
+    "plastic"
+  ],
+  "class_to_idx": {
+    "glass": 0,
+    "metal": 1,
+    "paper": 2,
+    "plastic": 3
+  }
+}
